@@ -155,7 +155,7 @@ img{
 
 
 .home h3{
-    color: #444;
+    color: var(--kebalikan);
     font-size: 1.5rem;
     margin-bottom: 1rem;
 }
